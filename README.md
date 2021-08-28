@@ -19,10 +19,10 @@ The main idea behind the project comes from the thought of the time delay betwee
 Once the case is either solved or unessesary, a officer can manually delete the information on his own.
 
 ### links used for reference:
-*[Node.js] (https://nodejs.org/en/) <br />
-*[mongoDB] (https://www.mongodb.com/) <br />
-*[Bootstrap] (https://getbootstrap.com/) <br />
-*[W3schools] (https://www.w3schools.com/) <br />
+*[Node.js](https://nodejs.org/en/) <br />
+*[mongoDB](https://www.mongodb.com/) <br />
+*[Bootstrap](https://getbootstrap.com/) <br />
+*[W3schools](https://www.w3schools.com/) <br />
 
 
 ## This webapp uses technologies like:
