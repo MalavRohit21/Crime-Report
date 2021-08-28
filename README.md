@@ -21,8 +21,8 @@ Once the case is either solved or unessesary, a officer can manually delete the 
 ### links used for reference:
 *[Node.js] (https://nodejs.org/en/) <br />
 *[mongoDB] (https://www.mongodb.com/) <br />
-*[Bootstrap](https://getbootstrap.com/) <br />
-*[W3schools](https://www.w3schools.com/) <br />
+*[Bootstrap] (https://getbootstrap.com/) <br />
+*[W3schools] (https://www.w3schools.com/) <br />
 
 
 ## This webapp uses technologies like:
