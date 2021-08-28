@@ -37,7 +37,7 @@ app.get('/allReports',(req, res)=>{
     Report.find().sort({createdAt: -1})
     .then((result)=>{
         // res.send(result);
-        res.render('./index', {reports: result});
+        res.render('./police_home', {reports: result});
     })
     .catch((err)=>{
         console.log(err);
