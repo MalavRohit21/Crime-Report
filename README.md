@@ -7,10 +7,10 @@ The app has the input user side, available to be accessed by any user who wants 
 
 ## How the app really works:
 
-##### The public phase: 
+### The public phase: 
 The app having 2 phase, the first phase takes report of crime for some user, pushes it to the mongoDB database and is ready to be fetched at the other phase of app
 
-##### The other phase of app:
+### The other phase of app:
 This phase is only to be accessed by the officials, here all the entries from different locations are displayed from the data present in the mongoDB database, it fetches the data and displays to the user.
 
 
